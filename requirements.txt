@@ -1,0 +1,10 @@
+numpy
+nltk
+pandas
+matplotlib
+click
+hmmlearn
+tqdm
+colorama
+-i https://download.pytorch.org/whl/cu117
+torch
